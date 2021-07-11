@@ -84,4 +84,4 @@ However, when we look to the left and right of the mean for each metric, we begi
 
 ### Property Taxes: Sellers vs. Non-Sellers
 
-<img src="https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/Tax_Amount.png">
+<img src="https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/Tax_Amount_SFRs.png">
