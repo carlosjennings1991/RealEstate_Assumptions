@@ -150,4 +150,17 @@ The data shows that sellers are not who we might assume they would be. They are 
 
 The implications are enormous. There is significantly less churn in the residential market than there used to be, and it's a self fulfilling cycle i.e you don't sell, because even if you did, there would be nothing to buy. 
 
-This in effect, freezes much of the available inventory, and increases prices since there is less supply to service the demand. Now this touches on a separate issue - supply. If demand is so high, why can't supply keep up? The answer is simple. This study focused on 7 neighborhood that are already fully developed. The only increase in supply comes from building-up i.e a condo building replacing 2 single family homes. This is expensive, difficult and in some cases impossible. Often times zoning only allows single family homes. In other cases, you can build denser but the entitlement and permitting process is extremely difficult and builders have no choice but to deliver something on the highest end of the price spectrum simply to break even. 
+This in effect, freezes much of the available inventory, and increases prices since there is less supply to service the demand. Now this touches on a separate issue - supply. If demand is so high, why can't supply keep up? The answer is simple. This study focused on 7 neighborhood that are already fully developed. The only increase in supply comes from building up i.e a 4 story condo building replacing 2 single family homes. This is expensive, difficult and in some cases impossible. Often times zoning only allows single family homes. In other cases, you can build denser but the entitlement and permitting process is extremely difficult and builders have no choice but to deliver something on the highest end of the price spectrum simply to break even. 
+
+All of this suggests that current trends will continue for the foreseeable future - prices will continue to go up and those who bought early will continue to hold onto their assets. 
+
+There are a couple events which could reverse these trends and bring us back to the historical norm. 
+
+<b>1. Radical Zoning Change:</b> Zoning could be loosened back to its pre-1970's norm and supply could more easily follow demand. This means that a home owner in Hollywood could sell their property to a developer and that developer could build an 8 unit apartment building in its place. 
+
+<b>2. Outmigration:</b> Los Angeles has been losing population since 2018. Granted, it has only lost 52,000 people from 2018 to 2021 out of nearly 4 million, and that decline has been felt very unevenly across the city. Nevertheless, continued population decline in LA would lessen demand and increase supply.
+
+<b>3. Long-term demographic decline:</b> If demographic trends continue, we will have a declining population in the United States by the middle of the 2020s. In fact, deaths exceeded births from Jan 2021 - Mar 2021 by 77,000 although this was driven by a huge increase in the death rate caused by Covid-19. However, this means that eventually demand could decline nationwide, which would put negative pressure on home values, which might make existing owners more likely to sell. All of this might make holding onto your home less attractive of an economic behviour. 
+
+Ultimately, real estate data requires serious examination. Rushing to conclusions based on gut feelings or outdated reference points could be a terrible mistake if you are an institutional investor or simply a home buyer looking to make a good financial choice for your family. Whatever the case may be, you should get good data, and play around with Python and visualize these trends for yourself. 
+ 
