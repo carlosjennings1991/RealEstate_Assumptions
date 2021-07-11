@@ -137,3 +137,5 @@ The above graphic is my personal favorite because it tells so many stories. Firs
 <b>Q2: Why are sellers paying a higher mortgage?</b> Because they purchased more recently, and therefore at a higher purchase price. 
 
 It also shows us some recent economic history. Home values increased dramatically in Los Angeles between 2010 and 2020. So even if you purchased in 2016, and sold in 2021, you'd still be making money even after closing costs. Furthermore, if you were afraid that home values would decline over the next 5 years, and are currently paying a very high mortgage, you would want to sell now - and the chart shows that. Secondly, you would not have lived in the area that long and may not be as emotionally tied to a neighborhood. Consequently, a disproportionately high percentage of sellers purchased within the past 10 years. 
+
+If we look at the previous decade, from 2000 to 2010, we see a couple trends. A disproportionate amout of non-sellers bought during the 2001 and 2008-09 recessions, when prices bottomed. 
