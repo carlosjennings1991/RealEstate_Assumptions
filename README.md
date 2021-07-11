@@ -99,3 +99,11 @@ What does this mean? It means that there are a lot of non-sellers paying much, m
 <img src="https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/Assessed_Total.png">
 
 With a small exception at the left edge of the distributions, non-sellers exceed sellers by a wide margin to the left of the mean. This means non-sellers own homes that have lower assessed values. 
+
+<br>
+
+### Previous Purchase Price: Sellers vs Non-Sellers
+##
+<img src="https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/Year_of_Purchase.png">
+
+The above chart shows the sharpest distinction of all the metrics. While the difference in mean previous purchase price is substantial, about $370k, a significant chunk of non-sellers paid <b>far below</b> the mean purchase price. 
