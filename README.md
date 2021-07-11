@@ -143,3 +143,11 @@ If we look at the previous decade, from 2000 to 2010, we see a couple trends. A 
 Pre-2000, non-sellers are more represented than non-sellers. Another interesting tidbit is the mini-spike of non-sellers around 1994. While the early 90's recession was relatively mild, it his Los Angeles especially hard. Combined with the effects of the 1992 riots and the 1994 Northridge Earthquake, Los Angeles was remarkably affordable in the early to mid-90's. 
 
 Whether you simply bought at the right time or were an institutional investor with the foresight to see LA real-estate was an incredibly bargain with tremendous upside, you would be understandbly remiss to let go of your asset. 
+
+## Conclusions:
+
+The data shows that sellers are not who we might assume they would be. They are not the retired couple who bought decades ago and are looking to downsize, rather they are more likely to be recent purchasers who are paying high taxes and monthly mortgages. 
+
+The implications are enormous. There is significantly less churn in the residential market than there used to be, and it's a self fulfilling cycle i.e you don't sell, because even if you did, there would be nothing to buy. 
+
+This in effect, freezes much of the available inventory, and increases prices since there is less supply to service the demand. Now this touches on a separate issue - supply. If demand is so high, why can't supply keep up? The answer is simple. This study focused on 7 neighborhood that are already fully developed. The only increase in supply comes from building-up i.e a condo building replacing 2 single family homes. This is expensive, difficult and in some cases impossible. Often times zoning only allows single family homes. In other cases, you can build denser but the entitlement and permitting process is extremely difficult and builders have no choice but to deliver something on the highest end of the price spectrum simply to break even. 
