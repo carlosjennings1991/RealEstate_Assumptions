@@ -129,3 +129,10 @@ At any rate, we can see non-sellers are clustered to the left side of the chart 
 ### Year of Purchase: Sellers vs Non-Sellers
 ##
 <img src="https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/Year_of_Purchase.png">
+
+The above graphic is my personal favorite because it tells so many stories. First of all, it explains some of the previous charts. 
+
+1: Why are sellers paying more in property taxes? Because they purchased more recently. 
+2: Why are sellers paying a higher mortgage? Because they purchased more recently, and therefore at a higher purchase price. 
+
+It also shows us some recent economic history. Home values increased dramatically in Los Angeles between 2010 and 2020. So even if you purchased in 2016, and sold in 2021, you'd still be making money even after closing costs. Furthermore, if you were afraid that home values would decline over the next 5 years, and are currently paying a very high mortgage, you would want to sell now - and the chart shows that. Secondly, you would not have lived in the area that long and may not be as emotionally tied to a neighborhood. Consequently, a disproportionately high percentage of sellers purchased within the past 10 years. 
