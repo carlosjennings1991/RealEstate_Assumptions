@@ -27,6 +27,8 @@ The mechanics of the machine learning model can be found here - https://github.c
 
 <img src="https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/baby%20boomers.jpeg">
 
+Since 2011, <b>2 Million Baby Boomers</b> have retired per year. Are they the largest segment of sellers?
+
 ### Assumption 2: Those with the most equity are more likely to sell. 
 
 <i> i.e cashing out, plain and simple </i>
