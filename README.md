@@ -56,3 +56,5 @@ Are sky-high valuations prompting owners with tons of equity into selling?
 It turns out, all of this assumptions are wildly incorrect. Granted, twenty years ago they may have been true with the GI Generation/Silent Generation taking the place of the Boomer generation, but a lot has changed in 20 years, especially in Los Angeles. 
 
 The image below is the breakdown of several key stats in each neighborhood, comparing sellers vs non-sellers. 
+
+<img src="https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/neighborhood_stats.png">
