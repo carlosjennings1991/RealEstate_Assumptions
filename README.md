@@ -21,6 +21,12 @@ ___
 
 The mechanics of the machine learning model can be found here - https://github.com/mhorstman/Final_Project_Team_1, the purpose of this repo is to showcase the very suprising finding about <i>who</i> is selling. 
 
+The source data can be found here - https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/Total_Cleaned.csv
+
+The Python code, with extensive use of the Pandas library, which I used to build these charts can be found here - https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/Chart_Making_Total.ipynb
+
+___
+
 ### Assumption 1: Those who have lived in their homes the longest are more likely to sell
 
 <i> i.e the downsizing Baby Boomer </i>
