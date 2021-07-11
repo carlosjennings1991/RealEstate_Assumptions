@@ -82,7 +82,7 @@ While the discrepencies in mean values do tell a story, what is much more intere
 
 However, when we look to the left and right of the mean for each metric, we begin to more fully understand the difference between sellers and non-sellers.  
 
-
+<br>
 
 ### Property Taxes: Sellers vs. Non-Sellers
 ##
