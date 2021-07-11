@@ -35,6 +35,8 @@ Since 2011, <b>2 Million Baby Boomers</b> have retired per year. Are they the la
 
 <i> i.e cashing out, plain and simple </i>
 
+<img src="https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/piles%20of%20cash.jpeg">
+
 ### Assumption 3: Those with the lowest, or absent, loan burdens are most likely to sell.
 
 <i> i.e nothing keeping them there </i>
