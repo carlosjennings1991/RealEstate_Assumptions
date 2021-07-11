@@ -15,4 +15,4 @@ As a part of my previous job, I had access to neighborhood data which we call 'f
 
 Now, Los Angeles is a big place, so this study focused on the 7 key neighborhood, as shown below. 
 
-<img src="https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/Neighborhood_Map.png">
+<img src="https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/Neighborhood_Map_2.png">
