@@ -104,6 +104,6 @@ With a small exception at the left edge of the distributions, non-sellers exceed
 
 ### Previous Purchase Price: Sellers vs Non-Sellers
 ##
-<img src="https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/Year_of_Purchase.png">
+<img src="https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/Previous_Purchase_Price.png">
 
 The above chart shows the sharpest distinction of all the metrics. While the difference in mean previous purchase price is substantial, about $370k, a significant chunk of non-sellers paid <b>far below</b> the mean purchase price. 
