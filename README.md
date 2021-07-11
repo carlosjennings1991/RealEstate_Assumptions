@@ -25,6 +25,8 @@ The mechanics of the machine learning model can be found here - https://github.c
 
 <i> i.e the downsizing Baby Boomer </i>
 
+<img src="https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/baby%20boomers.jpeg">
+
 ### Assumption 2: Those with the most equity are more likely to sell. 
 
 <i> i.e cashing out, plain and simple </i>
