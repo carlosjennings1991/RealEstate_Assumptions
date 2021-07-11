@@ -48,3 +48,7 @@ Are sky-high valuations prompting owners with tons of equity into selling?
 <img src="https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/paid%20in%20full.jpeg" width="720" height="480">
 
 <b>38 percent</b> or owner-occupied units are owned free and clear. Without a mortgage tieing them to the property, are these people moving?
+
+##
+
+It turns out, all of this assumptions are wildly incorrect. Granted, twenty years ago they may have been true with the GI Generation/Silent Generation taking the place of the Boomer generation, but a lot has changed in 20 years, especially in Los Angeles. 
