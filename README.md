@@ -123,3 +123,9 @@ An unforseen side-effect of Prop-13 has been that homes which pay an extraordina
 First of all, the above graphic shows the initial loan amount, so even if you now own your home outright, but had an initial loan of $300k, you'd still show up on the chart in the $300k column. However, if you paid your home in cash and never had a loan to begin with, you do not show up on the graph. 
 
 At any rate, we can see non-sellers are clustered to the left side of the chart and sellers towards the right. This tells us that sellers have a higher initial loan amount compared to non-sellers.
+
+<br>
+
+### Year of Purchase: Sellers vs Non-Sellers
+##
+<img src="https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/Year_of_Purchase.png">
