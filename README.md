@@ -80,4 +80,4 @@ From the above we can see several things.
 
 While the discrepencies in mean values do tell a story, what is much more interesting is the <i>distribution</i> of those values. The mean values simple show what the 50th percentile looks like for sellers and non-sellers in each neighborhood for each statistic we care about.
 
-However, when we look at the 25th and 75th percentiles for each metric, we begin to more fully understand the difference between sellers and non-sellers.  
+However, when we look to the left and right of the mean for each metric, we begin to more fully understand the difference between sellers and non-sellers.  
