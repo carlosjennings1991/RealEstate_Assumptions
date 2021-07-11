@@ -75,3 +75,5 @@ From the above we can see several things.
 - [x] Sellers pay more in property taxes vs non-sellers.
 
 - [x] Sellers have a higher existing mortgage burden vs non-sellers.
+
+While the discrepencies in mean values do tell a story, what is much more interesting is the <i>distribution</i> of those values. 
