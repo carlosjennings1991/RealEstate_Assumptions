@@ -20,3 +20,15 @@ Now, Los Angeles is a big place, so this study focused on the 7 key neighborhood
 ___
 
 The mechanics of the machine learning model can be found here - https://github.com/mhorstman/Final_Project_Team_1, the purpose of this repo is to showcase the very suprising finding about <i>who</i> is selling. 
+
+### Assumption 1: Those who have lived in their homes the longest are more likely to sell
+
+<i> i.e the downsizing Baby Boomer </i>
+
+### Assumption 2: Those with the most equity are more likely to sell. 
+
+<i> i.e cashing out, plain and simple </i>
+
+### Assumption 3: Those with the lowest, or absent, loan burdens are most likely to sell.
+
+<i> i.e nothing keeping them there </i>
