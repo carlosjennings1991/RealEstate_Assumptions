@@ -108,4 +108,8 @@ With a small exception at the left edge of the distributions, non-sellers exceed
 
 The above chart shows the sharpest distinction of all the metrics. While the difference in mean previous purchase price is substantial, about $370k, a significant chunk of non-sellers paid <b>far below</b> the mean purchase price. 
 
-There is an interesting California-specific reason for this - Prop 13. Prop 13, which passed in the 1970's, basically freezes the property taxes an owner pays to the rate they paid when they purchased the property. So if you bought your home in 1977, your property taxes have barely increased, <i>despite</i> massive increases in property values. Secondly, you can gift the property to your children and <i>they</i> would pay the same amount in property taxes as when you initially bought the property. 
+There is an interesting California-specific reason for this - Prop 13. 
+
+Prop 13, which passed in the 1970's, basically freezes the property taxes an owner pays to the rate they paid when they purchased the property. So if you bought your home in 1977, your property taxes have barely increased, <i>despite</i> massive increases in property values. Secondly, you can gift the property to your children and <i>they</i> would pay the same amount in property taxes as when you initially bought the property. 
+
+An unforseen side-effect of Prop-13 has been that homes which pay an extraordinarily low amount in property taxes have become a prized family heirloom. Because of this many homes which otherwise would have entered the sales market, are kept out of it, or at the most become rental properties. 
