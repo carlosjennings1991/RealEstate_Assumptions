@@ -19,7 +19,7 @@ Now, Los Angeles is a big place, so this study focused on the 7 key neighborhood
 
 ___
 
-The mechanics of the machine learning model can be found here - https://github.com/mhorstman/Final_Project_Team_1, the purpose of this repo is to showcase the very suprising finding about <i>who</i> is selling. 
+The mechanics of the machine learning model can be found here - https://github.com/mhorstman/Final_Project_Team_1, the purpose of this repo is to showcase the very suprising findings about <i>who</i> is selling. 
 
 The source data can be found here - https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/Total_Cleaned.csv
 
