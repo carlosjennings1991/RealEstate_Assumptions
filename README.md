@@ -91,3 +91,9 @@ However, when we look to the left and right of the mean for each metric, we begi
 The density distribution graph above shows the spread of tax amount for both distributions i.e sellers and non-sellers. What we see here is that non-sellers are vastly overrepresented on the left half of the distribution, and sellers are overrepresented on the right half of the distribution. 
 
 What does this mean? It means that there are a lot of non-sellers paying much, much less than the mean tax amount. 
+
+<br>
+
+### Assessed Total: Sellers vs Non-Sellers
+##
+<img src="https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/Assessed_Total.png">
