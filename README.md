@@ -45,4 +45,4 @@ Are sky-high valuations prompting owners with tons of equity into selling?
 
 <i> i.e nothing keeping them there </i>
 
-<img src="https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/paid%20in%20full.jpeg">
+<img src="https://github.com/carlosjennings1991/RealEstate_Assumptions/blob/main/paid%20in%20full.jpeg" width="720" height="480">
