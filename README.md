@@ -61,10 +61,17 @@ The image below is the breakdown of several key stats in each neighborhood, comp
 
 From the above we can see several things. 
 
+
 - [x] Sellers are more likely to be absentee owners AND live out of state.
+
 - [x] Sellers have more expensive homes compared to non-sellers.
+
 - [x] Sellers have newer homes compared to non-sellers.
+
 - [x] Sellers bought their home at a higher price vs non-sellers.
+
 - [x] Sellers bought their homes more recently vs non-sellers.
+
 - [x] Sellers pay more in property taxes vs non-sellers.
+
 - [x] Sellers have a higher existing mortgage burden vs non-sellers.
